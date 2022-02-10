@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Python Data Science</h1>
 <h3 align="center">A Data Insight Viewer and Solutioner</h3>
-<img align = "right" width= "450" src = "https://cdn.dribbble.com/users/2344801/screenshots/4774578/alphatestersanimation2.gif ">
+<img align = "right" width= "450" src = "https://cdn.dribbble.com/users/1857592/screenshots/3848396/media/93cc6261bb36b6e11237ea64ecde6961.gif">
 - 🔭 I’m currently working on **Python Data Science**
 
 - 🌱 I’m currently learning **Advance analytical skills**
