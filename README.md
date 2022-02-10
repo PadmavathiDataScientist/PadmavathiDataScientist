@@ -1,6 +1,7 @@
 <h1 align="center">Hi 👋, I'm Python Data Science</h1>
 <h3 align="center">A Data Insight Viewer and Solutioner</h3>
-<img align ="right" width="400" src="https://dribbble.com/shots/3848396-Character-Typing/attachments/10055179?mode=media">
+<img align ="right" width="400" src="![image](https://user-images.githubusercontent.com/99352066/153391716-67953356-0f72-4e6e-8bb0-dc4f36f0ab7d.png)
+">
 - 🔭 I’m currently working on **Python Data Science**
 
 - 🌱 I’m currently learning **Advance analytical skills**
